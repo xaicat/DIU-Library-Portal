@@ -81,9 +81,16 @@
 ✅ Member List
 
 ✅ Profile Update Page
+
 ---
 
-## 💡 Use Case Diagram
-<img src="UML Diagrams/usecase.svg"/>
+## 📑 UML Diagrams
 
+### 📚 Activity Diagram
+<img src="uml_diagrams/activity.svg"/>
 
+### 📚 Use Case Diagram
+<img src="uml_diagrams/usecase.svg"/>
+
+### 📚 Class Diagram
+<img src="uml_diagrams/class.svg"/>

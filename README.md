@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/xnfrPes.png"/>
 # 📚 DIU Library Portal
 
 **A Java Spring Boot-based web application designed to manage library resources and member operations for Daffodil International University (DIU).**

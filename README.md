@@ -64,7 +64,9 @@
 - Maven
 - MySQL Server
 
-### 💡 UI Pages
+---
+
+## 💡 UI Pages
 
 ✅ Login/Register Page
 

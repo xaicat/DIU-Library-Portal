@@ -28,4 +28,17 @@
 ---
 
 ## 🗂️ Project Structure
-├── controller/ │ ├── AdminController.java # All admin-related operations │ └── UserController.java # User interactions & registration ├── resources/ │ ├── templates/ # Thymeleaf HTML templates │ └── application.properties # Database and app config ├── JtSpringProjectApplication.java # Main class
+```bash
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/jtspringproject/JtSpringProject/
+│   │   │       ├── JtSpringProjectApplication.java
+│   │   │       └── controller/
+│   │   │           ├── AdminController.java
+│   │   │           └── UserController.java
+│   │   ├── resources/
+│   │   |    └── application.properties
+│   │   ├── webapp/views/
+│   │   |   └── All Frontend Files
+└── pom.xml

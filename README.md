@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/xnfrPes.png" height="200"/>
+<img src="https://i.imgur.com/xnfrPes.png" height="80"/>
 
 # 📚 DIU Library Portal
 

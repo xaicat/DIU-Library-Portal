@@ -63,3 +63,19 @@
 - Java JDK 17+
 - Maven
 - MySQL Server
+
+### 💡 UI Pages
+
+✅ Login/Register Page
+
+✅ Admin Dashboard
+
+✅ Book List View
+
+✅ Add/Update Book
+
+✅ Add/Update Categories
+
+✅ Member List
+
+✅ Profile Update Page

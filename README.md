@@ -1,4 +1,4 @@
-# 📚 DIU Library Portal Management System
+# 📚 DIU Library Portal
 
 **A Java Spring Boot-based web application designed to manage library resources and member operations for Daffodil International University (DIU).**
 

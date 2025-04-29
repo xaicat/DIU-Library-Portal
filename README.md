@@ -81,3 +81,9 @@
 ✅ Member List
 
 ✅ Profile Update Page
+---
+
+## 💡 Use Case Diagram
+<img src="UML Diagrams/usecase.svg" height="100" />
+
+

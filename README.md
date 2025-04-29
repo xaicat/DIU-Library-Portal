@@ -38,9 +38,9 @@
 │   │   │           ├── AdminController.java
 │   │   │           └── UserController.java
 │   │   ├── resources/
-│   │   |    └── application.properties
+│   │   │    └── application.properties
 │   │   ├── webapp/views/
-│   │   |   └── All Frontend Files
+│   │   │   └── All Frontend Files
 └── pom.xml
 
 ```

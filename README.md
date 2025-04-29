@@ -84,6 +84,6 @@
 ---
 
 ## 💡 Use Case Diagram
-<img src="UML Diagrams/usecase.svg" height="100" />
+<img src="UML Diagrams/usecase.svg"/>
 
 

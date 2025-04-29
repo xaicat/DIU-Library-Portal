@@ -42,3 +42,24 @@
 │   │   ├── webapp/views/
 │   │   |   └── All Frontend Files
 └── pom.xml
+
+```
+
+## 🛠️ Technologies Used
+
+- **Java 17**
+- **Spring Boot**
+- **JDBC (Raw SQL)**
+- **Thymeleaf (for HTML rendering)**
+- **MySQL (Database)**
+- **Maven (Build tool)**
+
+---
+
+## ⚙️ Setup Instructions
+
+### 🔧 Prerequisites
+
+- Java JDK 17+
+- Maven
+- MySQL Server

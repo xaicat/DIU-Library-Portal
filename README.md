@@ -87,7 +87,7 @@
 ## 📑 UML Diagrams
 
 ### 📚 Activity Diagram
-<img src="uml_diagrams/activity.svg"/>
+<img src="uml_diagrams/activity(uml).svg"/>
 
 ### 📚 Use Case Diagram
 <img src="uml_diagrams/usecase.svg"/>
